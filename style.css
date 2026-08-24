@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.principal{
+    border: 2px solid black;
+    height: 550px;
+    width: 420px;
+    margin-left: 771px;
+}
+
+.imagem{
+    border: 2px solid black;
+    height: 192px;
+    width: 179px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.link{
+    border: 2px solid black;
+    height: 40px;
+    width: 168px;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.info{
+    border: 1px solid black;
+    height: 20px;
+    width: 418px;
+    margin-bottom: 17px;
+}
+
+.info2{
+   border: 1px solid black;
+   height: 20px;
+   width: 418px;
+   margin-top: 8px;
+   margin-bottom: 15px;
+}
+
+.info3{
+   border: 1px solid black;
+   height: 20px;
+   width: 418px;
+   margin-top: 7px;
+   margin-bottom: 17px;
+}
+
+.p1{
+   border: 1px solid black;
+   height: 20px;
+   width: 418px;
+   margin-top: 8px;
+   margin-bottom: 40px;
+}
+
+.p2{
+   border: 1px solid black;
+   height: 40px;
+   width: 418px;
+   margin-top: 20px;
+   margin-bottom: 38;
+}
+
+.projetos{
+    display: flex;
+}
+
+.projeto1{
+   border: 2px solid black;
+   height: 88px;
+   width: 75px;
+   margin-top: 17px;
+}
+
+.projeto2{
+   border: 2px solid black;
+   height: 88px;
+   width: 20px;
+   margin-top: 17px;
+}
+
+.projeto3{
+   border: 2px solid black;
+   height: 88px;
+   width: 79px;
+   margin-top: 17px;
+   margin-right: 3px;
+}
+
+.projeto4{
+   border: 2px solid black;
+   height: 88px;
+   width: 92px;
+   margin-top: 17px;
+}
+
+footer{
+    border: 1px solid black;
+    margin: 10px 20px 30px 40px;
+}
